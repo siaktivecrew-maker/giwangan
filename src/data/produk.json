@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "kategori": "Produk Plastik",
+    "judul": "Tas Ramah Lingkungan",
+    "deskripsi": "Dibuat dari plastik daur ulang dengan desain modern dan kuat. Cocok untuk belanja sehari-hari atau aktivitas luar ruangan.",
+    "views": 245,
+    "foto": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?w=800&h=600&fit=crop"
+    ]
+  },
+  {
+    "id": 2,
+    "kategori": "Produk Plastik",
+    "judul": "Pot Tanaman Kreatif",
+    "deskripsi": "Memanfaatkan botol plastik bekas dengan berbagai ukuran dan warna. Hasil kreasi yang indah dan fungsional untuk tanaman hias.",
+    "views": 189,
+    "foto": [
+      "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1459411621453-7b03977f4bfc?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1466781783364-36c955e42a7f?w=800&h=600&fit=crop"
+    ]
+  },
+  {
+    "id": 3,
+    "kategori": "Produk Kertas",
+    "judul": "Keranjang Anyaman",
+    "deskripsi": "Dibuat dari koran dan majalah bekas yang dianyam dengan teknik khusus. Kuat, tahan lama, dan memiliki nilai estetika tinggi.",
+    "views": 167,
+    "foto": [
+       "https://images.unsplash.com/photo-1459411621453-7b03977f4bfc?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1466781783364-36c955e42a7f?w=800&h=600&fit=crop"
+    ]
+  },
+  {
+    "id": 4,
+    "kategori": "Produk Kertas",
+    "judul": "Lampion Dekoratif",
+    "deskripsi": "Kreasi dari kardus bekas yang dipotong dan dibentuk menjadi lampion dengan desain unik. Cocok untuk dekorasi ruangan atau acara special.",
+    "views": 203,
+    "foto": [
+      "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=800&h=600&fit=crop"
+    ]
+  },
+  {
+    "id": 5,
+    "kategori": "Produk Logam",
+    "judul": "Tempat Pensil Unik",
+    "deskripsi": "Dari kaleng bekas minuman yang dicat dan dihias dengan berbagai motif menarik. Praktis dan ramah lingkungan.",
+    "views": 134,
+    "foto": [
+      "https://images.unsplash.com/photo-1581833971358-2c8b550f87b3?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&h=600&fit=crop"
+    ]
+  },
+  {
+    "id": 6,
+    "kategori": "Produk Kaca",
+    "judul": "Vas Bunga Cantik",
+    "deskripsi": "Botol kaca bekas minuman yang dihias dengan cat kaca, tali, dan aksesoris lainnya. Menghasilkan vas bunga yang cantik dan unik.",
+    "views": 298,
+    "foto": [
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1485955900006-10f4d324d411?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=800&h=600&fit=crop"
+    ]
+  }
+]

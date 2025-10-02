@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "judul": "Workshop Daur Ulang",
+    "tanggal": "2024-11-15",
+    "peserta": 25,
+    "deskripsi": "Pelatihan intensif membuat berbagai kerajinan tangan dari sampah plastik. Peserta diajarkan teknik dasar pengolahan plastik bekas menjadi produk bernilai ekonomi seperti tas, dompet, dan aksesoris lainnya. Workshop ini juga mencakup pengenalan alat-alat sederhana yang bisa digunakan di rumah.",
+    "foto": [
+      "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1591115765373-5207764f72e7?w=800&h=600&fit=crop"
+    ]
+  },
+  {
+    "id": 2,
+    "judul": "Sosialisasi 3R di Sekolah",
+    "tanggal": "2024-11-08",
+    "peserta": 150,
+    "deskripsi": "Program edukasi lingkungan hidup untuk siswa SD dan SMP tentang pentingnya konsep 3R (Reduce, Reuse, Recycle). Kegiatan ini meliputi presentasi interaktif, games edukatif, dan praktek langsung pemilahan sampah. Tujuannya adalah menumbuhkan kesadaran lingkungan sejak dini.",
+    "foto": [
+      "https://images.unsplash.com/photo-1497486751825-1233686d5d80?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&h=600&fit=crop"
+    ]
+  },
+  {
+    "id": 3,
+    "judul": "Gotong Royong Bersih Kampung",
+    "tanggal": "2024-11-01",
+    "peserta": 80,
+    "deskripsi": "Kerja bakti bersama warga untuk membersihkan lingkungan sekitar RT/RW. Kegiatan meliputi pembersihan selokan, pengumpulan sampah plastik di area publik, dan penanaman pohon. Sampah yang terkumpul kemudian dipilah dan diserahkan ke bank sampah untuk didaur ulang.",
+    "foto": [
+      "https://images.unsplash.com/photo-1469571486292-0ba58a3f068b?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?w=800&h=600&fit=crop"
+    ]
+  },
+  {
+    "id": 4,
+    "judul": "Pelatihan Kompos Organik",
+    "tanggal": "2024-10-25",
+    "peserta": 30,
+    "deskripsi": "Pelatihan praktis membuat pupuk kompos dari sampah organik rumah tangga seperti sisa sayuran, daun kering, dan sampah dapur. Peserta diajarkan cara membuat komposter sederhana, teknik pengomposan yang benar, dan cara menggunakan kompos untuk tanaman. Setiap peserta mendapat starter kit komposter.",
+    "foto": [
+      "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=800&h=600&fit=crop"
+    ]
+  }
+]
